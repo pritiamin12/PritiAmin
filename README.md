@@ -1,3 +1,3 @@
 # PritiAmin
 # I am software developer
-✋:handbag
+:hand: :handbag:
